@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://bloghub-prs.netlify.app/"
+  status = 200
